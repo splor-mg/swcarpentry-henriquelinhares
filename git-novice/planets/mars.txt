@@ -3,3 +3,5 @@ The two moons may be a problem for Wolfman
 But the Mummy will aprreciate the lack of humidity
 Maybe I should start with a base on Venus
 V2 added a different line in the other copy
+This line added to v1 copy
+We removed the conflit on the 2 last lines
